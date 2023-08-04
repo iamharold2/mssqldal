@@ -337,5 +337,5 @@ func Insert_getid(sqlstring string) (int, error) {
 	return result, nil
 }
 func Test() {
-	fmt.Println("hello")
+	fmt.Println("hello word")
 }
